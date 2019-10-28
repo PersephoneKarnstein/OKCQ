@@ -104,13 +104,21 @@ def get_question(num, f=f, _await_val="question"):
 
     ActionChains(driver).move_to_element(await_val).perform()
     soup = BeautifulSoup(driver.page_source, features="lxml")
-    question = soup.find("h1", "questionspage-multipartquestion-questiontext").get_text()
-    answers = [a.get_text() for a in soup.find_all("div", "questionspage-multipartquestion-answers-answer-label")]
-    ans_str = '"'+'", "'.join(answers)+'"'
+    try:
+        question = soup.find("h1", "questionspage-multipartquestion-questiontext").get_text()
+    except AttributeError:
+        question = ""
+
+    try:
+        answers = [a.get_text() for a in soup.find_all("div", "questionspage-multipartquestion-answers-answer-label")]
+        ans_str = '"'+'", "'.join(answers)+'"'
+    except AttributeError:
+        ans_str = ""
+
     f.write(str(num)+':{question: "'+question+'", answers:{'+ans_str+'}}\n')
 
 try:
-    for num in range(862, 464459, 1):
+    for num in range(1476, 464459, 1):
         if num%20==0:
             f.close()
             f = open("okc_questions.txt", "a") #just putting this in to make extra sure it doesn't lose hours of work by 
@@ -124,6 +132,6 @@ try:
         except TimeoutException:
             get_question(num, f=f, _await_val="answers")
 except Exception:
+    raise
     f.close() #I *think* that this should work although it's rather ugly - if an exception is not caught by the inner two try/excepts, 
     #it will break that loop and be passed to this enclosing try/except, and be caught for clean-up.
-    raise

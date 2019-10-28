@@ -870,3 +870,670 @@ For both are infinite."
 860:{question: "Complete the following number sequence:
 1, 3, 13, 12, 781, 39, 137257, ...", answers:{"11", "30459", "24", "This is stupid/ I have no idea"}}
 861:{question: "Which of the following is not an English Language Morphological Case:", answers:{"Nominative", "Subjunctive", "Prolative", "Who cares?"}}
+862:{question: "Which of the following words does not belong:", answers:{"Redivider", "Senones", "Ottetto", "Lia Fail"}}
+863:{question: "Of the following, the most important characteristic in a mate:", answers:{"Honesty", "Intellect", "Wisdom", "Attractiveness"}}
+864:{question: "would you ever consider relocating to be near someone you met online?", answers:{"Yes", "No", "I'm Not Sure", "Depends on the Circumstances"}}
+865:{question: "Do you feel that there's a significant difference between "morality" and "ethics"?", answers:{"Yes", "No", "I'm Not Sure"}}
+866:{question: "Which of the following forms of taxation is most fair?", answers:{"Personal Income", "Consumer Sales", "Individual Property/Wealth", "Import/Export Tarriffs"}}
+867:{question: "Is it wrong to use illegal drugs?", answers:{"Yes, always", "No, never", "Only in excess", "only for addicts"}}
+868:{question: "Is it wrong to cultivate or manufacture illegal drugs?", answers:{"Yes, always", "No, never", "Sometimes"}}
+869:{question: "Was the United States 2003 invasion of Iraq Justified?", answers:{"Yes", "No", "I'm Not Sure"}}
+870:{question: "You know your family member or close friend has murdered someone out of revenge.  Do you turn them in?", answers:{"Yes", "No"}}
+871:{question: "Should the DMCA be repealed and file sharing legalized?", answers:{"Yes", "No", "I'm Not Sure", "Repeal the DMCA, but don't legalize filesharing."}}
+872:{question: "What's more important?", answers:{"Safety", "Freedom"}}
+873:{question: "The Public Educational system in the United states represents the most efficient means of educating children, given the resource limitations.", answers:{"Yes", "No", "I'm Not Sure/ Not from america"}}
+874:{question: "Would you rather live in the same geographic area for a lifetime, or be more nomadic.", answers:{"I like to be near my family, one place for me.", "I'm not opposed to moving from time to time.", "I like to move every few years for some variety.", "Get me outta here now!"}}
+875:{question: "Do you usually take vitamins?", answers:{"Yes", "No"}}
+876:{question: "Is someone who steals from a large business more or less wrong than someone who steals from an individual?", answers:{"Stealing from businesses is less wrong", "Stealing from individuals is less wrong", "They're both equally wrong", "Stealing is never wrong."}}
+877:{question: "Do most people seem like thoughtless sheep to you?", answers:{"Yes", "No"}}
+878:{question: "How do you feel about organized professional Sports?", answers:{"Can't get enough", "I like watching some from time to time", "Not as good as ameteur sports", "All Sports are a distraction to blind the masses"}}
+879:{question: "Would you get a body modification (tattoo, piercing, brand) for a lover?", answers:{"Yes", "No", "I'm Not Sure"}}
+880:{question: "What do you think about wearing a collar, not for sex, but simply foreplay (or just looks)?", answers:{"Sexy!", "No way!"}}
+881:{question: "If you had the option, which Shakespeare protagonist would you rescue from his horrible fate?", answers:{"Romeo", "Macbeth", "Hamlet", "Richard III"}}
+882:{question: "Would you date someone from another country?", answers:{"Yes", "No", "I'm Not Sure"}}
+883:{question: "Do you judge someone based on what OS they use on their computer? Be honest.", answers:{"Yes", "No"}}
+884:{question: "If someone is shy, does that mean they aren't interested in love and romance?", answers:{"Yes", "No"}}
+885:{question: "Do you study a martial art of some sort?", answers:{"Yes, I do.", "I used to, but I haven't practiced for a while.", "I haven't, but I'd like to.", "I haven't and I have no interest in doing so."}}
+886:{question: "Which is more important to you: your happiness or your partner's happiness?", answers:{"My happiness is much more important.", "My happiness is slightly more important", "My partner's happiness is slightly more important.", "My partner's happiness is much more important."}}
+887:{question: "Do you enjoy crude humor, dirty jokes, and the like?", answers:{"Yes, and I often try to push the boundaries!", "Usually, yes.", "Not in most cases, no.", "Absolutely not at all."}}
+888:{question: "Are you generally comfortable talking about delicate subjects like politics, religion, or personal information with strangers?", answers:{"Yes", "Sometimes", "No"}}
+889:{question: "Do you prefer to pursue a potential partner, or for them to pursue you?", answers:{"I'd rather pursue.", "I'd rather be pursued.", "I prefer a little of both."}}
+890:{question: "Which do you use when you eat Chinese food?", answers:{"Chopsticks", "Fork"}}
+891:{question: "Which is more important to you?", answers:{"Style", "Substance"}}
+892:{question: "What are your thoughts on public displays of affection?", answers:{"I'm all for them!", "Sure, as long it's all still decent.", "People should save it for when they're in private.", "They're terrible. Unless I'm involved!"}}
+893:{question: "Do you know about nice wine?", answers:{"Yes", "No"}}
+894:{question: "Your partner touches on a painful subject.  Do you:", answers:{"react according to how painful it is?", "ask for clarification?", "leave the room?", "say something to hurt them back?"}}
+895:{question: "Do you believe that there's an exception to every rule?", answers:{"Yes", "No"}}
+896:{question: "Do you cry more than twice a year?", answers:{"Yes", "No"}}
+897:{question: "What do you prefer?", answers:{"Pepsi products", "Coke a Cola products", "Other", "I drink water/never drink anything"}}
+898:{question: "Is it possible to have a true relationship, friend or otherwise, with someone you've never met in person?", answers:{"Yes", "No"}}
+899:{question: "Have you ever had a long-term relationship with someone you first met online?", answers:{"Yes", "No"}}
+900:{question: "How well can you speak Japanese?", answers:{"Fluently", "Somewhat", "Not at all", "Only what I've learned from anime ^_^"}}
+901:{question: "How important is weight to you in a partner?", answers:{"Very Important", "Somewhat Important", "Not Very Important", "Not Important At All"}}
+902:{question: "Computer Games were better when the graphics were worse, and the programmers had more imagination", answers:{"Yes, 8-bit retro chic forever", "No, I love my graphics", "I'm Not Sure", "I hate all computer games"}}
+903:{question: "Is God one of us?  Is he a stranger on a bus trying to find his way home?", answers:{"Yes", "No"}}
+904:{question: "What do you think of the Rocky Horror Picture Show?", answers:{"I live my life by it!", "I like it.", "I don't like it.", "It is the root of all evil!"}}
+905:{question: "Would you stay with a spouse if they have contracted HIV (but you don't have it)?", answers:{"Yes", "No", "I'm Not Sure"}}
+906:{question: "Would you get involved with a single parent?", answers:{"Yes", "No"}}
+907:{question: "How many computer languages are you passably proficient in?", answers:{"Computers can talk???", "1-3", "5-7", "I INVENTED the computer, baby!"}}
+908:{question: "Are you desperate?", answers:{"Yes", "No", "Depends on how you define it..."}}
+909:{question: "Which is more important to have?", answers:{"Good transportation", "A good computer or entertainment system"}}
+910:{question: "Dark, milk, or white chocolate?", answers:{"Dark", "Milk", "White", "I don't/can't/won't eat chocolate."}}
+911:{question: "Who will be in heaven?", answers:{"Everyone", "Good people", "People of my religion", "There is no heaven"}}
+912:{question: "Do you use minidiscs?", answers:{"All the time", "Only for recording", "No", "What are they, then?"}}
+913:{question: "Would you rather have your dream job or your soul mate for the rest of your life?", answers:{"Dream Job", "Soul Mate"}}
+914:{question: "Do you consider childhood experiences to be formative of adult personality?", answers:{"Yes, pretty much always", "No, not at all", "Some experiences, some people, sometimes", "I don't know"}}
+915:{question: "if someone was in a mutually exclusive relationship and they cheated with you, would you consider entering into a multually exclusive relationship with them?", answers:{"Yes", "No"}}
+916:{question: "How do you feel about furries?", answers:{"They should be spayed/neutered", "ROWR!", "It's fine for other people", "What's a furry?"}}
+917:{question: "Volt is to electicity as", answers:{"time : space", "Calorie : weight", "decibel : sound", "pound : mass"}}
+918:{question: "Etymology is to Semantics as", answers:{"Bread is to Butter", "History is to Context", "Space is to Reality", "Life is to Death"}}
+919:{question: "Group Sex sounds like a Great Idea.", answers:{"True", "False"}}
+920:{question: "Free trade globalization is a good thing for the world.", answers:{"Yes, definately", "No, Under no circumstances", "Only if Human Rights are taken into consideration", "I have no idea"}}
+921:{question: "do you want to have children?", answers:{"I already have some", "Yes, someday", "Don't Know or Depends on Circumstances", "No way!"}}
+922:{question: "Underwear", answers:{"Boxers", "Briefs", "Panties", "Underwear???"}}
+923:{question: "Do you consider  yourself to be very open minded?", answers:{"Yes", "No"}}
+924:{question: "The United States is the freest country in the world.", answers:{"True", "False", "I'm Not Sure"}}
+925:{question: "Starbucks?", answers:{"Yes", "Screw corporate coffee!(No)", "I'm Not Sure"}}
+926:{question: "Would you go out with a person who has a medical disorder that's not life threatening, but has to be thought of constantly? (e.g. Diabetes, Vision, etc.)", answers:{"Yes", "No", "I'm Not Sure"}}
+927:{question: "From a common starting point, if you travel nine feet to the east, and your partner travels twelve feet to the north, how far apart are you?", answers:{"12 Feet", "15 Feet", "21 Feet", "We wouldn't want to be that far apart."}}
+928:{question: "Which would you rather have stimulated?", answers:{"Your intellect", "Your genitalia", "Your Stock Portfolio"}}
+929:{question: "When will then be now?", answers:{"Eventually", "Soon!", "42!!!", "Geeky movie references annoy me."}}
+930:{question: "Would you ever put up with a significant other who hated your music or vice versa?", answers:{"Yes", "No", "Depends on the Sex"}}
+931:{question: "george bush is a good man", answers:{"Yes", "No"}}
+932:{question: "Which would you prefer: My finger on the trigger, or me face down across your floor?", answers:{"My finger on the trigger", "Me face down across your floor", "I'm not clever enough to know what this means.", "I plead the fifth"}}
+933:{question: "How often should you have sex?", answers:{"Once a day.", "Thee times a day.", "Once a week.", "As much as I can."}}
+934:{question: "You've been in a relationship for 2 years.  How often should you have sex?", answers:{"Once a day.", "One a week.", "Three times a day.", "As much as I can."}}
+935:{question: "If you had to pick a Disney themepark, which one would it be?", answers:{"Disneyland", "Walt Disney World", "Disneyland Paris (aka EuroDisney)", "Tokyo Disney", "", ""}}
+936:{question: "What is your favorite season?", answers:{"Spring", "Summer", "Fall", "Winter"}}
+937:{question: "Do you want to have children?", answers:{"Yes", "No", "I'm Not Sure"}}
+938:{question: "Do you know what the phrase "Nice Boots" means?", answers:{"Yes", "No", "No clue", "I would say "not on drugs for big cash prizes&"}}
+939:{question: "Are you a pirate or a ninja?", answers:{"Pirate "arrr we'll pilliage and get booty"", "Ninja "you can't see me because I'm stelthly&#"}}
+940:{question: "How are you with time?", answers:{"Perfecly punctual", "Running late", "Early bird", "What time is it anyway?"}}
+941:{question: "Do you consider yourself 'noisy' during sex?", answers:{"Yes", "No", "I'm Not Sure"}}
+942:{question: "If you could choose between binoculars, a camera, or a banana. Which would you take with you to an island?", answers:{"binoculars", "camera", "banana", "what the hell?"}}
+943:{question: "Coffee, tea, or hot chocolate?", answers:{"Coffee", "Tea", "Hot chocolate", "none of the above"}}
+944:{question: "Do you think President Bush should be re-elected?", answers:{"Yes", "No"}}
+945:{question: "How ridiculous is the concept of internet match-making?", answers:{"I'm so embarrased that I'm doing this.", "It is a little weird.", "Lighten up- it's just for fun.", "Internet match-making rocks!"}}
+946:{question: "Do you consider yourself to be good at clear verbal communication?", answers:{"Yes", "No", "Sometimes"}}
+947:{question: "Do you consider yourself zany, wacky or loony?", answers:{"Yes", "No", "Sometimes"}}
+948:{question: "A member of the sex you are least attracted to wants to give you oral sex.  Do you accept?", answers:{"Always!", "Maybe.", "No."}}
+949:{question: "Would you stop to offer assistance if you saw a car accident in a rural area?", answers:{"Yes", "No", "I'd contact local authorities"}}
+950:{question: "The area of a circle is?", answers:{"Pi multiplied by the diameter.", "Pi multiplied by the square of the radius.", "The bit on the inside.", "Not something that interests me at all."}}
+951:{question: ""It is only with the heart that one can see rightly.
+What is essential is invisible to the eye."", answers:{"Right on!", "Rubbish, you can see shelter, food, water etc.", "I'll agree to make me seem sensitive but its crap.", "Oooh, I love that book."}}
+952:{question: "Do you laugh at yourself:", answers:{"Often", "Sometimes", "Only in private", "What's funny about me?"}}
+953:{question: "Do you generally find people that wear glasses more or less attractive?", answers:{"More", "Less", "I'm indifferent"}}
+954:{question: "If someone lost their virginity, would that person still be a person you would consider having a relationship with?", answers:{"Yes", "No"}}
+955:{question: "Which element do you feel relates to you most?", answers:{"Earth", "Fire", "Wind", "Water"}}
+956:{question: "Which planet would you rather live on?", answers:{"Earth, Modern Day", "Middle Earth", "The Planet of the Naughty People", "The Nexus of All Dimensions"}}
+957:{question: "If your life were a novel, what would its title be?", answers:{""So, What? A Study in Sleepy Living"", ""Long Quiet Highway"", ""More Sex, Please"", ""Between a Laugh and a Tear""}}
+958:{question: "If you had a time machine, what time period/place(s) would you prefer to dwell in?", answers:{"Modern Day", "The Old West", "The Renaissance", "The Far Future"}}
+959:{question: "If you had a chance to make love to an artificial intelligence, would you?", answers:{"That would be cool.", "Wouldn't that be like dating a vibrator? Eww.", "What's an artificial intelligence?", "I'll try anything once."}}
+960:{question: "When it comes to remembering your dreams?", answers:{"I have the weirdest dreams ever.", "I have interesting dreams, and I keep a journal.", "I don't keep a journal, but I know I should.", "I don't really care/don't remember most dreams."}}
+961:{question: "Do you think there are set male and female roles in day to day life?", answers:{"Yes", "No"}}
+962:{question: "Alcohol: Take youtime or funnel it?", answers:{"Take my Time", "Get it in Fast!"}}
+963:{question: "Is foreplay necessary for good sex?", answers:{"Yes", "No"}}
+964:{question: "Alcohol: Take Your time or Funnel it?", answers:{"Hell YEAH!", "Get it in Fast!"}}
+965:{question: "The Bible is:", answers:{"the only book you need", "an interesting "historical" document", "the basis of your living", "a good source of fuel for a fire"}}
+966:{question: "How would you describe yourself?", answers:{"Carnivore", "Omnivore", "Vegetarian", "Vegan"}}
+967:{question: "What is your thought about humor?", answers:{"Anything goes if it is funny.", "Some topics are just off limits.", "Nothing is funny that pokes fun at anyone.", "Humor should be clean and free of explicit content"}}
+968:{question: "Are you unnerved by disturbingly cute things (i.e. Hello Kitty, anime, etc.)??", answers:{"Yes", "No"}}
+969:{question: "What flavor?", answers:{"Vanilla", "Chocolate"}}
+970:{question: "It's your first date. Who pays for dinner?", answers:{"I do", "My date does", "We split it"}}
+971:{question: "If everyone's life is an epic saga, what role do you play in yours?", answers:{"Lead", "Supporting", "Extra", "Fluffer"}}
+972:{question: "You've just ended a very serious, long term relationship. How soon do you start dating again?", answers:{"I already have someone lined up.", "Right Away.", "I need a little time.", "Never"}}
+973:{question: "What do you think of the concept of polyamoury?", answers:{"I AM polyamourous!", "It's okay...", "No way!", "I have no opinion/I don't know what it is."}}
+974:{question: "You discover your watch is off and you have an extra half hour to kill.  Do you:", answers:{"Wash the breakfast dishes.", "Check your email.  Again.", "Refloss & examine your gums.", "Practice your smile in the bedroom mirror.", "", ""}}
+975:{question: "You've just ended a very serious, long term relationship. How soon do you start dating again?", answers:{"I already have someone lined up.", "Right Away.", "I need a little time.", "Never"}}
+976:{question: "Do you believe that there is The ONE out there for you?", answers:{"Yes, but I have no idea who!", "Yes, I think I've already met them...", "Doubtful, it's all about personal chemistry.", "I'm not sure."}}
+977:{question: "Would you rather work a job you didn't like to live somewhere you DID, or work a job you loved and settle for living somewhere you didn't?", answers:{"Live somewhere I like.", "Do a job I like.", "It doesn't bother me either way."}}
+978:{question: "Could you ever date a memeber of service? (EMT/Paramedic, Police Officer, Firefighter).", answers:{"Yes", "No", "I'm Not Sure"}}
+979:{question: "How many children would you ideally like to have?", answers:{"None", "1-2", "3-4", "5 or more!"}}
+980:{question: "Can rats be suitable pets?", answers:{"Yes!  I love those lil' rascals!", "Um, sure... if they're not from a NY sewer.", "I don't/wouldn't know.", "No way dude."}}
+981:{question: "Could you date someone who uses a cane or crutches, or who is in a wheelchair?", answers:{"Yes.", "No.", "Maybe the cane, or crutches...", "I don't know."}}
+982:{question: "Would you date someone who is (or was) in a fraternity or sorority?", answers:{"Yes", "No", "I'm Not Sure"}}
+983:{question: "Could a relationship work if your family does not approve of your partner?", answers:{"Yes.  Screw them.  Love conquers all.", "No.  My family and my loyalty to them comes first.", "I don't have to worry about that, my fam's cool.", "It all depends on what they didn't approve of."}}
+984:{question: "If you don't have enough money to purchase something that you want, do you prefer to:", answers:{"Buy on credit and not worry about when you'll pay.", "Wait until you have enough money.", "Buy on credit, but pay when the bill arrives.", "You don't need it, therefore don't want it."}}
+985:{question: "What size is your penis, or what size do you prefer if you don't have one.", answers:{"Less than four inches.", "Four to six inches.", "Seven to eight inches", "Eight inches or more"}}
+986:{question: "Do you believe in an afterlife/life after death/resurrection?", answers:{"Yes", "No", "I'm Not Sure"}}
+987:{question: "Should your partner be your closest friend?", answers:{"Yes, definitely.", "Maybe, it depends on the partner.", "No, not at all."}}
+988:{question: "Don't you wish some of these questions had more than yes or no answers.", answers:{"Yes", "No", "Not important to me."}}
+989:{question: "Is it ever ok for a woman to hit a man?", answers:{"Yes", "No", "Only in self-defense"}}
+990:{question: "Do you find piercings (other than ears) attractive?", answers:{"Yes", "No", "I'm Not Sure"}}
+991:{question: "Do you enjoy "reality" TV shows?", answers:{"Yes", "Yes, but only on a social-experiment meta-level", "No"}}
+992:{question: "would you break up with your significant other if you found out [s]he was a postop transexual?", answers:{"Yes", "No"}}
+993:{question: "Do you wear glasses or contact lenses to correct your vision?", answers:{"Yep! Me = four eyes.", "I only wear glasses sometimes (when reading, etc.)", "I wear contacts.", "Neither; I have perfect or near perfect vision."}}
+994:{question: "Would you ever be open to listening to music in a different language?", answers:{"Yes", "No"}}
+995:{question: "Is there a moral duty to courtesy?", answers:{"Yes", "No", "I'm Not Sure", "What do you mean by moral duty?"}}
+996:{question: "Do you embrace diversity?", answers:{"Yes", "No", "I'm Not Sure", "What does that mean?"}}
+997:{question: "Are you a cat person or a dog person?", answers:{"Cats", "Dogs", "Both", "Neither"}}
+998:{question: "Do you wash your hands after using the restroom?", answers:{"Yes", "No"}}
+999:{question: "The last person who broke your heart deserves:", answers:{"to go on to follow their own heart to true love.", "to be similarly hurt by their next lover.", "to die alone, afraid, and as soon as possible."}}
+1000:{question: "Do you like going ballroom dancing?", answers:{"Yes", "No", "Maybe.", "Only with a particular partner."}}
+1001:{question: "How important are sports in your life?", answers:{"Sports is my life", "I regularly follow a few sports", "I watch the occasional game", "Sports? huh? what are those?"}}
+1002:{question: "Which of these music stars interests you most?", answers:{"Toby Keith (country)", "Justin Timberlake (pop)", "Eminem (rap)", "Evanescence (pop/rock)"}}
+1003:{question: "How much pornongraphy is saved on your computer?", answers:{"None", "A few pieces", "A good amount", "Hundreds of things"}}
+1004:{question: "Generally, what is the first thing you notice about a person of the opposite sex?", answers:{"strictly just their physical appearance.", "the way they carry themselves.", "Nothing. I barely even notice other people."}}
+1005:{question: "Do you find large nipples unattractive?", answers:{"Yes", "No", "I don't care either way"}}
+1006:{question: "Political Background?", answers:{"Democrat", "Republican", "Socialist", "Doesn't Matter/None"}}
+1007:{question: "are you open minded enough to tell your partner what you like, dislike and have always wanted to try?", answers:{"Yes", "No"}}
+1008:{question: "Multiple choice, short answer, or essay?", answers:{"Multiple Choice", "Short Answer", "Essay"}}
+1009:{question: "For the USA: Do you believe that public education's standardized testing is an effective way to gauge individual student's level of intelligence?", answers:{"Yes, low scores mean low intelligence.", "No, low scores are indicators, but not for intell.", "No, low scores are completely meaningless.", "I have no opinion."}}
+1010:{question: "Stereotype yourself by choosing one of the categories below that is "closest" to your stereotype, given your personal interpretations:", answers:{"Geek, Gamer, Goth, Alternative", "Fashion Plate, Pretty Boy, SuperModel", "Mainstream, Yuppie, Middle Class, Urban-Suburban", "Barstool Quarterback, Beer-Drinker, SportsLover"}}
+1011:{question: "Do you know what a 'safeword' is, in a sexual context?", answers:{"Yes", "No"}}
+1012:{question: "Do you wash your hands after going to the bathroom?", answers:{"Almost always.", "Only if someone else can see/hear me.", "Why bother? I don't pee on my hands.", "Almost never."}}
+1013:{question: "If there were a good chance that your lover were sterile would you marry then even if you knew you could never have children?", answers:{"Yes", "No"}}
+1014:{question: "Do you prefer partners that have facial hair?", answers:{"Yes", "No"}}
+1015:{question: "Do you live with your parent(s)?", answers:{"Yes", "No"}}
+1016:{question: "null", answers:{"Yes", "Occationally", "Rarely", "Never"}}
+1017:{question: "Cheese-eating surrender monkeys?", answers:{"Damn right", "Non - vive la France!", "Banana milk shake?", "Not interested in politics"}}
+1018:{question: "Would you sacrifice the love of your family for a significant other they didn't like?", answers:{"Yes", "No", "I'm Not Sure"}}
+1019:{question: "Do you want marriage someday?", answers:{"Yes", "No"}}
+1020:{question: "How many children do you want?", answers:{"1", "2", "3", "4 or more"}}
+1021:{question: "Brian Aldridge?", answers:{"two-timing dastard", "victim of circumstance", "I have no idea who you are talking about"}}
+1022:{question: "Do you think this question is lame?", answers:{"Yes", "No, but it's self-referential", "Not sure / no opinion", "I wouldn't use the word 'lame' like that"}}
+1023:{question: "Is there music constantly playing in your head?", answers:{"Yes", "No"}}
+1024:{question: "We've asked whether it's ever okay for a man to hit a woman. Now we ask - is it ever okay for a woman to hit a man?", answers:{"Yes", "No"}}
+1025:{question: "When you perform oral sex for your partner, do you demand oral sex in return?", answers:{"Yes.  I wouldn't have done it otherwise.", "Yes.  It's not fair to take without giving.", "No.  It's wrong to demand oral sex.", "No.  I don't care about it/ I don't ever perform ."}}
+1026:{question: "The partner who earns more money should have more control over significant purchasing decisions in a cohabitative, resource-sharing relationship.", answers:{"True", "False"}}
+1027:{question: "Would you marry someone even of they didn't care to learn about literature and the arts?", answers:{"Yes", "No", "I'm Not Sure"}}
+1028:{question: "Do you prefer sex rough or gentle?", answers:{"Rough", "Gentle", "I enjoy both equally"}}
+1029:{question: "Do you know the "proper" way to lay out a table setting (ie silverware and napkin placement, etc)?", answers:{"Yes", "No"}}
+1030:{question: "Do you think yourself romantic?", answers:{"Yes", "No"}}
+1031:{question: "If you found a wallet with money in it, would you try and find the owner or keep it?", answers:{"Keep It", "Find Owner", "Depends on how much"}}
+1032:{question: "Doc Martins, Combat boots or sneakers?", answers:{"Docs", "Combats", "Sneakers"}}
+1033:{question: "Do you have the ability to use power tools  and fix things?", answers:{"Yes, definitely", "Sort of", "No / Not really"}}
+1034:{question: "Which method of communication makes you the most comfortable?", answers:{"On Paper / Over e-mail / IM", "In Person", "Phone"}}
+1035:{question: "Something you need is broken -- you:", answers:{"Send it to the person who fixes things.", "Examine it, and tinker, until it is fixed.", "Put it away, and find an unbroken thing to use.", "Forget the project, and move on."}}
+1036:{question: "Would you avoid dating/friending a person who is differently abled?", answers:{"Yes", "No", "I'm Not Sure", "Would depend on the disability"}}
+1037:{question: "Would you rather adopt a pet from the pound/humane society or buy one from a pet store?", answers:{"Yes", "No", "I'm Not Sure"}}
+1038:{question: "Would you ever take in a stray animal if you knew that it would be put to sleep if you didn't?", answers:{"Yes", "No", "I'm Not Sure"}}
+1039:{question: "Do you believe there is more there than flesh and bones? (Basically, do you believe in souls)?", answers:{"Yes", "No", "I'm Not Sure"}}
+1040:{question: "Receiving anal sex?", answers:{"I like it / I think I might like it", "I don't like it / I don't think I would like it"}}
+1041:{question: "Masturbation?", answers:{"Every chance I get", "Daily or almost daily", "Once or Twice per week", "Almost never / never"}}
+1042:{question: "What is techno?", answers:{"Detroit techno or Swiss/UK techno?", "Any dance music with a constant beat", "I'm Not Sure"}}
+1043:{question: "Is sex a good way to solve disputes?", answers:{"Yes", "No"}}
+1044:{question: "If you were to go to Las Vegas, or any other gambling center, it would be to:", answers:{"Do something you'd regret", "Gamble away your life savings", "Attend conventions to meet like-minded people", "Do everything listed above and then some"}}
+1045:{question: "Which is better?  Loving someone for their flaws, or changing someone to get rid of their flaws?", answers:{"Loving someone for their flaws", "Changing someone to get rid of their flaws"}}
+1046:{question: "A "Union Jack" has more in common with:", answers:{"A "Jolly Roger"", "A "Claw Hammer"", "A "Knight of Labor"", "I have absolutely no clue"}}
+1047:{question: "Antibacterial soap is a good idea.", answers:{"True", "False"}}
+1048:{question: "The best revenge is living well.", answers:{"Yes", "No"}}
+1049:{question: "Would you prefer the lights on or off during sex?", answers:{"On", "Off", "It's exactly the same to me"}}
+1050:{question: "When chatting online, if you write "LOL", "LMAO", "HAHA", etc. are you actually laughing?  Or at least smiling?", answers:{"Yes, why else would I write it?", "No, who the hell does?", "I don't chat online.", "Sometimes.  It depends who I'm talking to."}}
+1051:{question: "You get one multiple-choice wish.", answers:{"Wealth.", "Fame.", "Knowledge.", "Sex."}}
+1052:{question: "How often do you get angry?", answers:{"Very often", "Sometimes", "Rarely"}}
+1053:{question: "How long does it usually take you to get out of bed in the morning?", answers:{"Less than a minute.", "Between one and ten minutes.", "Between ten minutes and an hour.", "More than an hour."}}
+1054:{question: "Sushi?", answers:{"Yes, please!", "Eww, raw fish.", "I'll try it, as long as there are no tentacles."}}
+1055:{question: "People who are convicted of morally heinous crimes (child molestors, for example) deserve to have bad things happen to them in prison.", answers:{"True", "False", "Maybe / I don't know"}}
+1056:{question: "Did you use an image modification program to enhance your uploaded picture.", answers:{"Yes", "No", "I did not/will not upload a picture."}}
+1057:{question: "Have you answered and/or skipped ALL of the active questions on this godforsaken site?", answers:{"Yes, I was REALLY bored", "No, I have a life", "I sure wish more of them had "sometimes" a"}}
+1058:{question: "Policies, rule books, contracts, end user license agreements, warranty information...", answers:{"Read them", "Think of ways to abuse them", "Ignore them", "Read them if I'm being sued"}}
+1059:{question: "Do you prefer your mate be taller or shorter than you?", answers:{"Yes.", "No.", "Don't care either way."}}
+1060:{question: "For someone your gender, how tall are you?", answers:{"Tall", "Medium", "Shorter than average", "Really short"}}
+1061:{question: "Guns?", answers:{"Nobody needs them. At all. Ever.", "For the authorities (police, army, etc).", "For citizens, with licenses and background checks.", "Sold over the counter like candy."}}
+1062:{question: "How frequently do you bathe or shower?", answers:{"At least once a day.", "Usually daily. I skip some.", "A couple times a week.", "Once a week or less."}}
+1063:{question: "What is the farthest you would travel for a non-platonic relationship?", answers:{"In my hometown or no deal. (15 minutes tops)", "I can hack a bit of travel. (30-45 minutes)", "Driving is cool (or trains or buses). (1hr +)", "I'll go wherever you are. (1 day+ or flying)"}}
+1064:{question: "Would you be willing to do all the traveling to see your Significant Other? (They can't or won't drive, for what every reason)", answers:{"Yes", "No", "Depends on WHY they can't travel"}}
+1065:{question: "Do you believe in Angels?", answers:{"Yes", "No", "I'm Not Sure"}}
+1066:{question: "Do you believe you lead a moral existence?", answers:{"Yes", "No", "I try to"}}
+1067:{question: "If you were career orientated.  Would you be happy if your "perfect match" earned more than you and had a higher status career?", answers:{"Yes", "No", "Not bothered"}}
+1068:{question: "Is God one of us?  Is he a stranger on a bus trying to find his way home?", answers:{"Yes", "No"}}
+1069:{question: "Did you vote in the 2000 US Presidential election?", answers:{"Yes", "No", "I wasn't old enough.", "I'm not an American."}}
+1070:{question: "Would you rather have...", answers:{"A job that paid well.", "A job that was fun or fulfilling."}}
+1071:{question: "So you feel it is the woman's role to be in the home?", answers:{"Yes", "No"}}
+1072:{question: "How important is communication in a relationship?", answers:{"Communication Rules the Nation", "It's OK but I am a more private person"}}
+1073:{question: "Are all men insensitive pigs?", answers:{"Yes", "No"}}
+1074:{question: "How long would you continue to try to prove your love to someone who resisted you?", answers:{"Less than 6 months", "6 months to a year", "1 year", "As long as it took"}}
+1075:{question: "Where do you stand on the social/economic spectrum?", answers:{"Libertarian", "Liberal", "Conservative", "Authoritarian"}}
+1076:{question: "Would you marry someone your family dispised?", answers:{"Yes", "No", "Depends on the reason"}}
+1077:{question: "How would you prefer to solve your problems?", answers:{"With your body/force", "With trickery", "By being charming", "I'd figure out how to avoid them."}}
+1078:{question: "If you *HAD* to eat one, which would you be:", answers:{"Snot", "Ear Wax", "Poo"}}
+1079:{question: "Given the choice, would you sacrifice your safety to save someone you'll never meet, or keep a low profile and safe yourself the trouble?", answers:{"Save a stranger", "Stay secure"}}
+1080:{question: "Do you think that you should learn multiple languages in order to get that dream job?", answers:{"Yes", "No", "I'm Not Sure", "I should learn some right away!"}}
+1081:{question: "Would you prefer to be a financial success or to remain true to your principles?", answers:{"Financial success, please.", "I'll stick with my principles, thanks."}}
+1082:{question: "If you have to sniff a shirt twice to see if it's wearable, it is probably:", answers:{"Clean", "Dirty"}}
+1083:{question: "Complete this sentence: I smoke two joints...", answers:{"In the Morning", "At Night", "And then Smoke Two More", "NEVER!"}}
+1084:{question: "Do you break for...", answers:{"Really Hot People", "Animals", "Sunsets", "I don't..."}}
+1085:{question: "Which would you rather be:", answers:{"Rich but Unfulfilled", "Peniless but Extremely Happy", "Middle Class and Content"}}
+1086:{question: "What is favorite source of stimulus to masturbate to/with?", answers:{"Visual porn (videos, magazines, etc.)", "Erotic literature", "Fantasies", "I don't masturbate!"}}
+1087:{question: "Would you be offended if your partner told you they wanted an open relationship?", answers:{"Yes", "No way.  I'd be all for it!", "I'm Not Sure"}}
+1088:{question: "Do you enjoy performing oral sex?", answers:{"Yes", "No", "I've never tried."}}
+1089:{question: "If you found out that your everyday life was a computer simulation, and you could take a red pill to escape into the "real" (but unknown) world, or take the blue pill and return to your existence in blissful ignorance, which would you choose?", answers:{"Red Pill (escape into the unknown)", "Blue Pill (return to the "fake" world)"}}
+1090:{question: "Is the US actually a Democratic Dictatorship?  Meaning: does a voting American citizen vote for the new dictator when voting for a president?", answers:{"Yes", "No", "I can't believe that anyone would even ask this"}}
+1091:{question: "Is Communism inharently Evil? Or was the problem with the USSR and other Communist states the fact that they were ruled by cold harted dictators?", answers:{"Inharently Evil", "Dictators are Evil"}}
+1092:{question: "Pinko or Sub-Genius?", answers:{"Pinko", "Sub-Genius", "WTF are you talking about?"}}
+1093:{question: "Have you ever heard of nonverbal learning disorder or asperger's syndrome?", answers:{"Yes,  I have NLD, AS, or a similar disorder", "Yes, I 've heard of  NLD and/or AS", "No, but I'd be open to learning more about it", "No, and I'm not interested in hearing more"}}
+1094:{question: "Is it ever OK to tell your partner they aren't allowed to keep someone as their friend?", answers:{"Yes", "No"}}
+1095:{question: "Do you get told you think too much?", answers:{"Never", "Rarely", "Sometimes", "A lot"}}
+1096:{question: "Should government get out of the marriage game entirely? i.e. no more legal marriage for anyone?", answers:{"Sounds great!", "I don't know about that...", "Are you nuts?"}}
+1097:{question: "going without under garments, is evil or sexy?", answers:{"Yes", "No", "I'm Not Sure"}}
+1098:{question: "Can you imagine a situation where you would lie to protect your partner?", answers:{"Yes", "No", "I'm Not Sure"}}
+1099:{question: "Are you smarter than most people?", answers:{"Yes", "No"}}
+1100:{question: "Are you better looking than most people?", answers:{"Yes", "No"}}
+1101:{question: "Do you think most people would prefer to be a lot more like you?", answers:{"Yes", "No"}}
+1102:{question: "Do you feel that you're usually at least one step ahead of most people you talk to?", answers:{"Yes", "No"}}
+1103:{question: "Are you naturally a lot better at games than most people?", answers:{"Yes", "No"}}
+1104:{question: "Are you a genius?", answers:{"Yes", "No"}}
+1105:{question: "Do you need to improve yourself?", answers:{"Yes", "No"}}
+1106:{question: "Do other people often impress you?", answers:{"Yes", "No"}}
+1107:{question: "Are you really good at understanding people quickly?", answers:{"Yes", "No"}}
+1108:{question: "Given the choice, how much time would you like to spend with your mate?", answers:{"As much as possible. Live, work, & sleep toget", "Lots. We'd spend most of our free time together.", "A few nights a week. Dating is fun.", "As little as possible. I need my space."}}
+1109:{question: "Are you a furry?", answers:{"Yes.", "No.", "Maybe a little.", "What's a furry?"}}
+1110:{question: "Would you consider dating someone who is Polyamorous?", answers:{"Yes", "No", "I'm Poly.", "Only if they quit being Poly for me."}}
+1111:{question: "Do you want to have children?", answers:{"Yes", "No", "I'm Not Sure"}}
+1112:{question: "Do you like the taste of beer?", answers:{"Yes", "No"}}
+1113:{question: "Do you prefer to date people who are older than you?", answers:{"Yes", "No", "I'm Not Sure"}}
+1114:{question: "If you became interested in someone, and found out they were only 17, would you continue?", answers:{"No", "Yes, but not sexually", "Yes, I'd go for it", "I am not sure"}}
+1115:{question: "Would you be offended if your partner expressed interest in seriously seeing (not just flirting or having sex with) someone else?", answers:{"Yes", "No", "I'm Not Sure", "Not if I were involved."}}
+1116:{question: "Do you believe you can love two or more people romantically at the same time?", answers:{"Yes", "No", "I'm Not Sure"}}
+1117:{question: "Would you date someone with a mental illness?", answers:{"Yes", "Depends on the illness", "Only if they're symptom free through treatment", "No"}}
+1118:{question: "What percentage of these questions don't matter to you?", answers:{"0-25%", "25-50%", "50-75%", "75-100%"}}
+1119:{question: "Does your partner have to be an active reader?", answers:{"Yes", "No", "", ""}}
+1120:{question: "Are you allergic to any common household pets such as cats or dogs?", answers:{"Yes", "No"}}
+1121:{question: "Have you ever had multiple romantic partners during the same time period?", answers:{"Yes, and they both knew.", "Yes, and I didn't tell at least one of them.", "No."}}
+1122:{question: "How often do you use profane language?", answers:{"Never", "Once in a while", "Often", "Almost always", "", ""}}
+1123:{question: "Your best friend, who is very grounded and credible, tells you something supernatural has happened.  Do you:", answers:{"Listen with an open mind.", "Immediately assume there is a natural explanation.", "Believe him or her; the supernatural is real.", "Write off your friend as a lunatic.", "", ""}}
+1124:{question: "Would you say your actions are guided more by your head or your heart?", answers:{"Head", "Heart", "Genitalia", "", ""}}
+1125:{question: "Do you like travelling to foreign countries?", answers:{"Yes", "No", "", ""}}
+1126:{question: "Would you download music illegally from services like the defunct Napster and Kazaa?", answers:{"Yes", "No", "", ""}}
+1127:{question: "Favorite beats:", answers:{"Trance", "Techno", "House", "I'm not really into electronic music", "", ""}}
+1128:{question: "Would you date someone who was already in a committed relationship with someone else?", answers:{"Yes, even in secret.", "Yes, but only if everybody knew.", "No, but I don't think it's inherently wrong.", "No, it's wrong.", "", ""}}
+1129:{question: "A homeless person asks you for some change. You:", answers:{"Ignore them completely", "Refuse politely", "Threaten them or insult them", "Give them some loose change.", "", ""}}
+1130:{question: "Would you consider appearing in a beauty pageant?", answers:{"Yes", "No", "", ""}}
+1131:{question: "The German people should be held responsible for the atrocities committed against the Jews during the holocaust.", answers:{"Yes", "No", "I'm not sure", "", ""}}
+1132:{question: "Would you ever consider cutting a partner (who asked for it) in sexual play?", answers:{"Yes", "Maybe", "No", "", ""}}
+1133:{question: "Do you have rape fantasies?", answers:{"Yes", "No", "", ""}}
+1134:{question: "Do you have a desire (even if it's secret) to take part in sexual activities involving bondage?", answers:{"Yes", "No", "Absolutely not.", "", ""}}
+1135:{question: "Do you believe people, as a whole, are capable of ruling themselves, or is government of some kind needed?", answers:{"Anarchy; people can rule themselves", "Government; someone needs to be in charge", "", ""}}
+1136:{question: "is it better to have loved and lost than to have never loved at all?", answers:{"Yes", "No", "", ""}}
+1137:{question: "At the heart of every pessimist is an experienced optimist.", answers:{"Yes", "No", "", ""}}
+1138:{question: "Have you ever been to prison?", answers:{"Yes", "No", "Just to visit / I was working", "", ""}}
+1139:{question: "If you had to choose one of these places to live in for the rest of your life, which would it be?", answers:{"Antarctica", "No", "", ""}}
+1140:{question: "If you had to choose one of these places to live in for the rest of your life, which would it be?", answers:{"Antarctica", "The Sahara Desert", "", ""}}
+1141:{question: "What sounds like a better vacation, a week with no real plans, doing whatever fits your fancy that day, or a week somewhere where you have every day planned out with something fun?", answers:{"No real plans - spontaneity is fun", "Plan it out - I need structure", "", ""}}
+1142:{question: "If you were offered the chance, would you go into space?", answers:{"Yes", "No", "", ""}}
+1143:{question: "Are those who cannot / will not remember the past condemned to repeat it?", answers:{"Yes", "Not necessarily", "", ""}}
+1144:{question: "What's a better philosophy? (however YOU define 'better')", answers:{"Existence *is* suffering", "Existence  *is* bliss", "", ""}}
+1145:{question: "Is compromising in a realationship important to you?", answers:{"Yes", "No", "", ""}}
+1146:{question: "Is taking care of your body important to you?", answers:{"Yes", "No", "", ""}}
+1147:{question: "Would you rather be a failure at something you like or a success at something you hate?", answers:{"Failure at something I like.", "Success at something I hate.", "I'm Not Sure", "", ""}}
+1148:{question: "Before you get married or share dwellings would you have your partner sign a Prenuptial?", answers:{"Yes", "No", "I'm Not Sure what a prenuptial is", "", ""}}
+1149:{question: "Would you rather be a specialist or generalist?", answers:{"Specialist", "Generalist", "", ""}}
+1150:{question: "I appreciate the absurd.", answers:{"Splunge", "No", "", ""}}
+1151:{question: "What levels of education do you expect your partner to have (completed or should be in the process of completing), BEFORE your relationship becomes increasingly serious or is serious?", answers:{"Does Not Matter", "Undergraduate Degree or Equivalent (ex. B.A. etc.)", "", ""}}
+1152:{question: "What levels of education do you expect your partner to have (completed or should be in the process of completing), BEFORE your relationship becomes increasingly serious or is serious?", answers:{"Does Not Matter", "Undergraduate Degree or Equivalent (ex. B.A. etc.)", "", ""}}
+1153:{question: "Sexually explicit art or song lyrics should be", answers:{"Embraced as an art form", "Accepted as free expression", "Censored to protect society", "", ""}}
+1154:{question: "What's your attitude towards oral sex?", answers:{"Enjoy giving", "Enjoy receiving", "Enjoy both", "Uncomfortable with both", "", ""}}
+1155:{question: "What kind of books do you prefer to read?", answers:{"Genre fiction", "Literary fiction", "Non-fiction", "I don't like books", "", ""}}
+1156:{question: "What's your diet?", answers:{"Any Meat", "White Meat (Chicken, Fish...)", "Vegetarian", "Vegan", "", ""}}
+1157:{question: "At the end of the day what matters more?", answers:{"Physical comfort", "Emotional fulfilment", "I'm Not Sure", "", ""}}
+1158:{question: "Are you married, engaged to be married, or in a relationship that you believe will lead to marriage?", answers:{"Yes", "No", "", ""}}
+1159:{question: "What do you think of cold winter weather?", answers:{"Snow Angels and Snowball Fights!", "Ice, Slush, and Drudgery.", "", ""}}
+1160:{question: "Which would you sooner do?", answers:{"Whore yourself", "Sell a kidney", "", ""}}
+1161:{question: "Do you usually end an argument with:", answers:{"going silent / walking away", "laughter/sex", "talking it through", "throwing something / calling the cops", "", ""}}
+1162:{question: "The famous Cretan Eumenides tells you that all Cretans are liars.  Do you believe him?", answers:{"Yes", "No", "It was Epimenides, you dolt", "", ""}}
+1163:{question: "The famous Cretan Eumenides tells you that all Cretans are liars.  Do you believe him?", answers:{"Yes", "No", "It was Epimenides, you dolt", "", ""}}
+1164:{question: "Do you vote?", answers:{"Yes", "No", "", ""}}
+1165:{question: "Do you vote?", answers:{"Always", "If an issue or candidate interests me.", "Never", "", ""}}
+1166:{question: "While parking late at night, you accidentally scrape the side of an expensive car.  No one has seen what happened, and the damage is minor and would not be covered by insurance.  Would you leave a note?", answers:{"Yes, I would.", "No, I wouldn't.", "", ""}}
+1167:{question: "While parking late at night, you accidentally scrape the side of an expensive car.  No one has seen what happened, and the damage is minor and would not be covered by insurance.  Would you leave a note?", answers:{"Yes, I would.", "No, I wouldn't.", "", ""}}
+1168:{question: "How much cuddling do you like?", answers:{"Lots, it's a physical craving", "Cuddling for hours is fun, sometimes", "Some is OK, but not too much please", "Little or none", "", ""}}
+1169:{question: "Having sex with the light on is...", answers:{"...better than with the light off.", "...kind of fun, sometimes.", "...OK, if I must.", "...just wrong.", "", ""}}
+1170:{question: "Have you ever *seriously* cheated on an exam?", answers:{"Yep... A+", "Nope", "", ""}}
+1171:{question: "If you have to kill household vermin, like a mouse or cockroaches, do you feel guilty?", answers:{"Yes", "No", "I'd never even kill it", "", ""}}
+1172:{question: "Do you own any dice with more than six sides?", answers:{"Yes", "No", "", ""}}
+1173:{question: "Are you more attracted to virgins?", answers:{"Yes", "No", "I am a virgin", "", ""}}
+1174:{question: "Would you lie about cheating to end a relationship?", answers:{"Yes", "No", "", ""}}
+1175:{question: "How patient are you generally with people you're close to?", answers:{"Very patient", "Somewhat Patient", "Not very patient", "Patience is overrated.", "", ""}}
+1176:{question: "Do you think Magick is real?", answers:{"Yes", "No", "", ""}}
+1177:{question: "If your child developed a mental illness through recreational drug use would you do everything that you could to help them?", answers:{"Yes", "No", "", ""}}
+1178:{question: "Could you sustain a serious relationship with someone who earns considerably less than you?", answers:{"Yes", "No", "", ""}}
+1179:{question: "Do you like traveling?", answers:{"Yes", "No", "", ""}}
+1180:{question: "Are you at all attracted to people who are less intellectually or professionally motivated than you?", answers:{"Yes, sure", "No", "", ""}}
+1181:{question: "If a serious relationship were on the rocks, would you consider traveling 3000 miles (5000km) to try to save it?", answers:{"Yes", "No", "", ""}}
+1182:{question: "How do you prefer to deal with relationship problems?", answers:{"Discussion", "Sex", "Pretend there's nothing wrong", "Take time apart"}}
+1183:{question: "If you find an injured animal that is going to die soon and is in a great deal of pain what do you do?", answers:{"give it a quick painless death", "let nature take its course", "", ""}}
+1184:{question: "Sexual preference is determined by:", answers:{"genetic predispostion", "environmental factors", "a bit of both"}}
+1185:{question: "In a serious relationship, do you feel it's important to keep your significant other informed of the details of your day-to-day life?", answers:{"Yes", "No", "Not every day", "", ""}}
+1186:{question: "Is it always dishonest to temporarily withold important information from a partner if you feel that the timing is bad and would rather wait?", answers:{"Yes", "No", "Depends on the circumstance.", "", ""}}
+1187:{question: "Break-ups. Which has happened more?", answers:{"Usually I break up with them", "Usually they break up with me", "It's been equal on both sides.", "", ""}}
+1188:{question: "You disagree with a company's actions or stance on an important issue, do you:", answers:{"Take your business elsewhere (or go without)", "Write a letter encouraging the company to change.", "Discuss the issue with friends but nothing else.", "Organize a boycott (small or large scale)", "", ""}}
+1189:{question: "How much debt do you have (excluding home and school loans)?", answers:{"None", "Less than 20% of my income", "More than 20% of my income", "More than 50% of my income", "", ""}}
+1190:{question: "Is it okay for a man to hit a woman in self-defense?", answers:{"Yes", "No", "", ""}}
+1191:{question: "Do you like reading philosophy?", answers:{"Yes", "No", "", ""}}
+1192:{question: "Do you enjoy reading religious texts that do not match your own religious beliefs?", answers:{"Yes", "No", "", ""}}
+1193:{question: "Do you blog?", answers:{"Yes", "No", "", ""}}
+1194:{question: "How much do you usually spend on a haircut (in US dollars; simply skip this if you can't convert.)?", answers:{"$0-$10 / I do it myself / I never do it", "$11-25", "$26-$50", "> $50", "", ""}}
+1195:{question: "Are you more structured, or more spontaneous?", answers:{"Structured", "Spontaneous", "", ""}}
+1196:{question: "I only use soap on the smelly parts.", answers:{"Usually", "When I'm in a hurry", "That's gross", "", ""}}
+1197:{question: "Toilet paper roll?", answers:{"Over", "Under", "Depends on my mood", "Who cares?", "", ""}}
+1198:{question: "Would you rather:", answers:{"Lose in Style", "Win Dishonorably", "", ""}}
+1199:{question: "How often do you watch cartoons?", answers:{"Everyday", "Once a week", "Every now and again", "Never"}}
+1200:{question: "Marijuana and sex?", answers:{"Sure - it's a great combination", "Depends on the circumstances", "Not for me thanks, but you go ahead", "Illegal drug use is wrong, period", "", ""}}
+1201:{question: "What is next in this series? 1, 4, 10, 19, 31, _", answers:{"36", "48", "46", "Don't know / don't care", "", ""}}
+1202:{question: "Do you spend money on a partner, buying gifts, paying for events and the like?", answers:{"Yes, all the time, for just about any reason.", "Sometimes, on special occasions.", "Only when absolutely necessary.", "No, not at all.", "", ""}}
+1203:{question: "Here's a situation: You are in a serious relationship. Is it all right to have a crush on someone else?", answers:{"Yes", "Yes, if they're NOT the same gender as my partner", "I'm Not Sure", "No", "", ""}}
+1204:{question: "If you are in a serious relationship, is it okay to "check out" other people?", answers:{"Yes", "Yes, as long as they're the same gender as my S.O.", "Yes, if it's the opposite gender of my S.O.", "No", "", ""}}
+1205:{question: "Do you, or would you have a pet name for your partner?", answers:{"Yes", "No", "", ""}}
+1206:{question: "Would you rather spend your life never married, or married to someone you were not in love with?", answers:{"Never married", "Married to someone I didn't love", "", ""}}
+1207:{question: "Would you consider dating someone who is polyamorous?  (That is, they believe in having multiple committed romantic relationships.)", answers:{"Yes", "No", "Only if they quit being polyamorous for me.", "", ""}}
+1208:{question: "Are you Searching for the Answer in life?", answers:{"Yes", "No", "Sometimes", "", ""}}
+1209:{question: "How much is too much Television on a daily basis?", answers:{"1hr.", "4hrs.", "10hrs.", "12 hrs or more", "", ""}}
+1210:{question: "Is ethnocentrism a global ill?", answers:{"Yes", "No", "Maybe / I don't know / I don't understand", "", ""}}
+1211:{question: "If you were falling madly in love with someone who had detestable fashion sense and would be deeply hurt by your suggestion that this was so, would you...", answers:{"Love them for", "Dump them?", "Shop for them, forever, buying fashionable gifts?", "", ""}}
+1212:{question: "Do you like dogs?  Would you consider owning a dog as a pet?", answers:{"Yes, I would love (or do own) a dog.", "I'm not too into them, but I wouldn't mind one.", "No, I dislike dogs.", "I like them, but I'm allergic.", "", ""}}
+1213:{question: "Do you believe that low standardized test scores are typically indicative of low intelligence?", answers:{"Yes; there's usually a strong correlation.", "Not usually; low scores happen for many reasons.", "No; low scores are completely meaningless.", "", ""}}
+1214:{question: "Which test type frustrates you the most?", answers:{"Multiple Choice", "Short Answer", "Essay", "", ""}}
+1215:{question: "Can you enjoy mainstream music, books, and other media? Or do you only approve of or enjoy indie/alternative?", answers:{"Mainstream is always bubblegum. I do not enjoy it.", "Heck. If I like it, I like it, mainstream or else.", "Indie/alternative is just not for me.", "", ""}}
+1216:{question: "Do you actually read the books your friends recommend to you? (Or listen to the music they recommend? Or see the movie they recommend?)", answers:{"Yes, I pursue recommendations right away.", "I eventually take a look at their recommendations.", "I don't typically pursue recommendations.", "I don't pursue them, but I feel VERY guilty.", "", ""}}
+1217:{question: "If you were to receive a free magazine subscription, which package would you choose? (I know, tough choices!)", answers:{"Harper's, New Yorker, Atlantic Monthly", "National Geographic, Scientific American, Discover", "Forbes, Business Weekly, Fortune, The Economist", "Real Simple, Martha Stewart Living", "", ""}}
+1218:{question: "Are you a "green thumb" or a "black thumb?"", answers:{"Plants flourish around me", "I kill every green thing", "Neither / I'm not sure / Somewhere in the middle", "Plants are for outside", "", ""}}
+1219:{question: "Do public displays of affection make you uncomfortable?", answers:{"Yes", "No", "", ""}}
+1220:{question: "Do you enjoy kissing?", answers:{"Absolutely!", "Most of the time.", "Sometimes, but not always.", "Not at all.", "", ""}}
+1221:{question: "How do you remember your first kiss?", answers:{"Romantic", "Sexy", "Scary", "Don't remember it at all", "", ""}}
+1222:{question: "In terms of relationships, which of these is it the most important to find?", answers:{"Someone for whom you would do anything.", "Someone who turns you on.", "Someone you feel like you've known forever.", "Someone with goals similar to yours.", "", ""}}
+1223:{question: "Do you consider yourself to be easily offended?", answers:{"Yes", "No", "", ""}}
+1224:{question: "Do you consider yourself to be easily grossed out?", answers:{"Yes", "No", "", ""}}
+1225:{question: "If evolution is a fact, then why do they call it "The Theory of Evolution"?", answers:{"Because it's not proven, it's just a theory.", "Because it can't be reproduced in a laboratory.", "I don't know and I'm going to look this up.", "I don't know and I don't care.", "", ""}}
+1226:{question: "A homeless man with a withered hand asks for some change as you pass him on the sidewalk.  You:", answers:{"Ignore him.", "Say, "I'm sorry" and not give him anything", "Fish in your pocket and give him whatever you can.", "Tell him, "Get a job, for Pete's sake!"", "", ""}}
+1227:{question: "Do you know where your towel is?", answers:{"Yes", "No", "", ""}}
+1228:{question: "If given a choice of being blind or deaf, which would you choose?", answers:{"Blind", "Deaf", "", ""}}
+1229:{question: "How do you feel about accused criminals "getting off on a technicality"?", answers:{"Frustrated! The legal system has failed us.", "Irritated. What a waste of the court's time.", "Pleased. They beat The Man!", "Relieved. Technicalities are there to protect us.", "", ""}}
+1230:{question: "If given a choice of being blind or deaf, which would you choose?", answers:{"Blind", "Deaf", "", ""}}
+1231:{question: "If given a choice of being blind or deaf, which would you choose?", answers:{"Blind", "Deaf", "", ""}}
+1232:{question: "Roughly what percentage of your annual income do you spend on clothes for work (not your personal wardrobe)?", answers:{"Less than 1%.", "Greater than or equal to 1% but less than 2%.", "Greater than or equal to 2%, but less than 3%.", "3% or more.", "", ""}}
+1233:{question: "How do you feel about call waiting?", answers:{"Grateful - I need never miss a call.", "Indifferent - Don't really care.", "Annoyed - Always when I don't want it.", "Grr - I don't like interrupt-driven communication.", "", ""}}
+1234:{question: "Do you think that those who engage in ostensibly victimless crimes (for instance, drug abuse or assisted suicide) should be sent to jail?", answers:{"Yes.", "No.", "Some.", "I'm not sure.", "", ""}}
+1235:{question: "Do you own any shiny or form-fitting clothing?", answers:{"Yes", "No", "", ""}}
+1236:{question: "Romantic "Love" is better described as:", answers:{"Intense passionate attraction", "A longterm mix of friendship and desire", "", ""}}
+1237:{question: "tattoos are:", answers:{"self expression", "tasteless", "", ""}}
+1238:{question: "How do you feel about public transport?", answers:{"I often ride public transport", "I occasionally ride public transport", "I don't use it", "I'd never stoop so low", "", ""}}
+1239:{question: "RPGing, on a whole, is...", answers:{"Good", "Evil", "It's All I Ever Do", "Satan may take your soul...", "", ""}}
+1240:{question: "Are you interested in reenactments(renaissance faires, civil war encampments, SCA, etc)?", answers:{"Yes", "No", "Sounds interesting", "", ""}}
+1241:{question: "Will you vote for President Bush in the 2004 election?", answers:{"Yes", "No", "I'm not voting", "", ""}}
+1242:{question: "I can fluently speak, write, and read:", answers:{"My own language", "My own plus other languages", "My own plus programming languages", "All of the above", "", ""}}
+1243:{question: "When using this site, do you think you're more likely to initiate communication with others, or wait for them to contact you?", answers:{"I initiate conversation", "I wait", "About 50/50", "", ""}}
+1244:{question: "null", answers:{"1", "2", "3", "4", "", ""}}
+1245:{question: "Communism is...?", answers:{"The worst idea ever", "The greatest thing ever", "Okay for some, but not for me", "", ""}}
+1246:{question: "Are you into Emo (the music genre)?", answers:{"Yes", "No", "Maybe / I don't know what it is"}}
+1247:{question: "Do you think a Utopian society is possible?", answers:{"Yes / probably", "No / probably not;  people are too different", "I don't know / I don't understand", "", ""}}
+1248:{question: "Writing as a profession is...?", answers:{"A most admirable profession", "For lazy people", "No better or worse than any other", "", ""}}
+1249:{question: "Watching cartoons as an adult is...?", answers:{"Pathetic", "Cool", "I don't care either way / Not sure", "", ""}}
+1250:{question: "Should frontal nudity be allowed on non-pay television?", answers:{"Yes", "No", "Only during certain hours", "", ""}}
+1251:{question: "In the following sequence of numbers, what should come next?122112122122112112212112122112
+(*Note to reviewer: This is a Kolakoski sequence, the answer should be logically available)", answers:{"112122", "121222", "222112", "None of the above", "", ""}}
+1252:{question: "Which gender should initiate asking the other out on a date?", answers:{"The boy should ask the girl.", "The girl should ask the boy.", "Either one should ask.", "Gender roles are silly.", "", ""}}
+1253:{question: "Complete the following number sequence most appropriately: 100, 22, 100, 112, 144, 400....
+(Note to reviewer: This is a sequence of increasing powers of two, base-shifting, beginning in binary and ending in octal)", answers:{"44", "100", "628", "8157", "", ""}}
+1254:{question: "What's the most important part of a song?", answers:{"the music", "the lyrics", "the singer's voice", "the whole package", "", ""}}
+1255:{question: "Irrefragable is to fearless as intrepid is to:", answers:{"craven", "unalterable", "tearful", "automobile", "", ""}}
+1256:{question: "Are you polytheistic?", answers:{"Yes", "No, there is only one god", "No, I'm an atheist", "Polywhat?", "", ""}}
+1257:{question: "Are you a cultural relativist? (do you believe that we should have to look at a cultural phenomenon based on it's own culture's people rather than basing every culture on one criteria)", answers:{"Yes", "No", "In some cases", "", ""}}
+1258:{question: "Do you know at least half of the words to the intro to the TV cartoon He Man And The Masters Of The Universe?", answers:{"Yes, by the power of Greyskull!", "Uh, no.", "", ""}}
+1259:{question: "Do you:", answers:{"Listen", "Wait to talk", "", ""}}
+1260:{question: "How fast do you type?", answers:{"Painfully slowly, alternating between two fingers.", "I use four fingers; about 40 words per minute.", "I use most fingers; maybe 60 words per minute.", "At least 80 words per minute.", "", ""}}
+1261:{question: "What's your reading speed?", answers:{"I don't read much.", "A week for a paperback.", "A day for a paperback.", "Two hours or less for a paperback.", "", ""}}
+1262:{question: "Who would you rather date?", answers:{"Dream of The Endless.", "Death of The Endless.", "Neither - but I know who they are.", "Huh?", "", ""}}
+1263:{question: "Do you need to know about your partner's previous sexual exploits?", answers:{"Yes, because it reflects on them as a person.", "No, the past is the past.", "", ""}}
+1264:{question: "Do foreign accents turn you on?", answers:{"Yes", "No", "", ""}}
+1265:{question: "Does a good night have to involve getting drunk?", answers:{"Yes", "No", "Only if everyone else is drunk too", "", ""}}
+1266:{question: "Your friend or SO gives you something turns out to be a lot more valuable than he/she originally paid for it (lottery ticket, gift package, antique thingie...use your imagination.) Do you:", answers:{"Offer to give it back or share the proceeds", "Keep it for yourself", "", ""}}
+1267:{question: "If you are poly, do you feel in an established relationship you are entitled or able to set limits on the development of your SO's other involvements? (If you're not poly, answer yes or skip.)", answers:{"Yes - new relationship energy erodes judgment", "With regard to cohabitation/parenting, certainly", "No, I trust my SO's judgment generally", "No, realistically you can't hold back the tide.", "", ""}}
+1268:{question: "Do you crave attention?
+", answers:{"Lots! / All the time.", "Sometimes", "Rarely", "", ""}}
+1269:{question: "Are you comfortable around strangers?", answers:{"Yes, usually", "Depends mostly on their behavior", "Depends on something else", "No, not usually", "", ""}}
+1270:{question: "Of nature or nurture: Which is more important in determining personality, ability, intelligence, etc.", answers:{"Nature (Genetic Influence)", "Nurture (Social Influence)", "About 50/50", "", ""}}
+1271:{question: "If you want to have children, would you become seriously involved with someone who physically couldn't?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1272:{question: "How wise do you think you are at this stage?", answers:{"I am wise about most things in life", "I am wise about a few things", "Some wisdom, but I don't feel wise", "I don't have much wisdom yet", "", ""}}
+1273:{question: "Are "good" and "evil" real things with actual existence independent of our perception?", answers:{"Yes", "No", "I'm Not Sure", "What a dumb question", "", ""}}
+1274:{question: "A few long, slow, deep kisses or lots of sweet little kisses?", answers:{"Long, slow", "Sweet Little", "Ugh! Kissing!", "", ""}}
+1275:{question: "Are naive children better at getting at the truth of things, or are wise adults better?", answers:{"Adults", "Children", "Most people get it wrong, regardless", "", ""}}
+1276:{question: "If you could rewind to take another shot at life, would you...", answers:{"Rewind to infancy", "Rewind to pre-pubescence/early adolescence", "Rewind to Late Adolescence/Youth", "I wouldn't rewind. It was fine the first time.", "", ""}}
+1277:{question: "Is it okay for you to be irrational in making important life decisions?", answers:{"Yes", "No", "", ""}}
+1278:{question: "What is your emotional age (as distinct from your real age)?", answers:{"Kid", "Teen, Youth", "Adult", "Grey, elderly", "", ""}}
+1279:{question: "How annoyed do you get about correct spelling, punctuation and grammar?", answers:{"I can get angry about it, and have to rant.", "It's a little irritating sometimes.", "I'm tolerant about it.", "Language is fluid - it's not important.", "", ""}}
+1280:{question: "Do you think you're an original thinker?", answers:{"Yes", "No", "I have my moments", "", ""}}
+1281:{question: "Do you prefer to have nice things now, or would you prefer to sacrifice for a better future?", answers:{"A better future", "Nice things now", "", ""}}
+1282:{question: "Is there a novel in you?", answers:{"Yes", "No", "Not yet", "Not a novel, but something else", "", ""}}
+1283:{question: "A person is a virgin if...", answers:{"They haven't experienced penetration", "They haven't made love/made out", "They haven't masturbated", "They haven't had a sexual thought", "", ""}}
+1284:{question: "When did you last pee in your pants?", answers:{"In infancy", "In childhood", "In my teens", "As an adult"}}
+1285:{question: "Do you find it easy to make friends from outside of your social class?", answers:{"Yes", "No", "", ""}}
+1286:{question: "Private Education is...", answers:{"Fair", "Unfair", "", ""}}
+1287:{question: "Have you experienced mental illness?", answers:{"Yes - severely", "Yes - low grade", "No", "I'm not sure", "", ""}}
+1288:{question: "Have you ever been fired from a job for not being good enough?", answers:{"Yes", "No", "", ""}}
+1289:{question: "Do you have a fear of commitment?", answers:{"Yes, my heart's been broken a few too many times", "No. Bring it on!", "after knowing the person, I'm open to it", "", ""}}
+1290:{question: "Do you feel like you're still hurting from something that happened to you a long time ago?", answers:{"Yes", "No", "", ""}}
+1291:{question: "Richard Dawkins or Stephen Jay Gould?", answers:{"Dawkins", "Gould", "Who? What?", "", ""}}
+1292:{question: "Do you find the idea of evolution plausible?", answers:{"Yes", "No", "I don't know enough to judge", "", ""}}
+1293:{question: "Do you understand quantum physics?", answers:{"Yes / Some", "No", "", ""}}
+1294:{question: "How lazy are you?", answers:{"I'd lay around the house all day if I could", "I work, I sleep.. that's about it", "Im a work-aholic", "Sleep? what's that!?", "", ""}}
+1295:{question: "Do you make shopping lists?", answers:{"Yes", "No", "", ""}}
+1296:{question: "Have you ever read a whole book of theory by a philosopher?", answers:{"Yes", "No", "", ""}}
+1297:{question: "Do you consider yourself normal?", answers:{"Normality is a figment of society's imagination", "I'm just meat n potatoes", "", ""}}
+1298:{question: "Poststructuralism. Dead or not?", answers:{"Dead", "Not", "Don't know what it is", "Who Cares?", "", ""}}
+1299:{question: "Nature or Nurture?", answers:{"More Nature", "More Nurture", "Don't get it", "", ""}}
+1300:{question: "Who is best at being right?", answers:{"Artists", "Scientists", "Humanities People", "Practical People", "", ""}}
+1301:{question: "Have you ever used a line from a movie to pick someone up?", answers:{"Yes", "No", "", ""}}
+1302:{question: "Are you good at joining in?", answers:{"Yes", "No", "", ""}}
+1303:{question: "Are you more a single-issue person or a party-politics person?", answers:{"Single-issue", "Party-politics", "Neither", "", ""}}
+1304:{question: "The original Power Rangers are much better than all of their numerous successors.", answers:{"Definitely.", "Doubtful.", "All the Power Rangers suck.", "", ""}}
+1305:{question: "Do you own your own country's flag?", answers:{"Yes", "No", "", ""}}
+1306:{question: "To be or not to be?", answers:{"To be", "Not to be", "Hm, well, that is the question!", "", ""}}
+1307:{question: "Would you write a poem to your lover?", answers:{"Yes", "No", "", ""}}
+1308:{question: "Baby Lotion or Baby Oil?", answers:{"Baby Lotion", "Baby Oil", "Neither", "", ""}}
+1309:{question: "What size party would you prefer to attend?", answers:{"Just a few close friends.", "5-20 people.", "20-100 people.", "More than 100 people.", "", ""}}
+1310:{question: "Do you like having your hair cut?", answers:{"Yes", "No", "", ""}}
+1311:{question: "As a personality, are you more passive or more active?", answers:{"More passive", "More active", "Exactly balanced"}}
+1312:{question: "What's most impressive?", answers:{"Command of factual knowledge", "The ability to interpret", "The ability to explain", "", ""}}
+1313:{question: "Which reflects a person's worth most?", answers:{"Their IQ score", "Their EIQ score", "", ""}}
+1314:{question: "Personality tests are...", answers:{"Pretty accurate", "Vaguely accurate", "Usually wrong", "Largely meaningless", "", ""}}
+1315:{question: "It's more fun to read...", answers:{"Things that everyone else is reading", "Things other people haven't heard of", "Why read?", "", ""}}
+1316:{question: "Would you learn another language for the sake of communicating better with a lover?", answers:{"Yes", "No", "", ""}}
+1317:{question: "What's more to be avoided?", answers:{"Inflation", "Unemployment", "Question is based on fallacy", "", ""}}
+1318:{question: "Do you routinely find yourself picking up on the logical fallacies in things people say?", answers:{"Yes", "No", "", ""}}
+1319:{question: "Are you superstitious?", answers:{"Yes", "No", "", ""}}
+1320:{question: "What's more important?", answers:{"Having others acknowledge you're right", "Knowing you're right when others disagree", "", ""}}
+1321:{question: "Which villain do you identify with more...", answers:{"Phantom of the Opera", "Dracula", "Frankenstein's Monster", "The Mummy", "", ""}}
+1322:{question: "Do you wish you were brought up in another culture?", answers:{"Yes", "No", "", ""}}
+1323:{question: "Who is generally most talented?", answers:{"The Composer", "The Conductor", "The Soloist", "The Instrumentalists", "", ""}}
+1324:{question: "The best poetry...", answers:{"Rhymes and scans", "Doesn't rhyme or scan", "Rhymes and syncopates", "I hate poetry", "", ""}}
+1325:{question: "Sex in public or semi-public places is ...", answers:{"Hot", "Shameful", "Risky", "All of the above", "", ""}}
+1326:{question: "Are you synaesthetic (can think of sounds as colors, or feelings as shapes etc.)?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1327:{question: "Is it OK to be irrational in making life decisions that affect someone else?", answers:{"Yes", "No", "", ""}}
+1328:{question: "Who tends to be choosier, you, or your romantic partners?", answers:{"You", "Your partners", "I'm Not Sure", "", ""}}
+1329:{question: "Is promoting abstinence to teenagers in school a complete waste of time?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1330:{question: "Which answer appeals to you most?
+1+1=", answers:{"2 (Logic)", "3 (Synergy)", "1 (Unity, atonement)", "-2.76 (Irrationality/Spontineity)", "", ""}}
+1331:{question: "Does immortality appeal to you?", answers:{"Yes", "No", "", ""}}
+1332:{question: "Which sense would you be willing to lose?", answers:{"Sight", "Hearing", "Touch", "", ""}}
+1333:{question: "Is is immoral to use human embryos for research purposes?", answers:{"Yes", "No", "I don't know / Maybe"}}
+1334:{question: "Escher and Mandelbrot?", answers:{"Fun to look at", "Not that interesting", "What?", "", ""}}
+1335:{question: "Do you like marmite or similar yeast based food?", answers:{"Yes", "No", "", ""}}
+1336:{question: "Would you rather be deaf or blind?", answers:{"Deaf", "Blind", "", ""}}
+1337:{question: "Is form or function more important?", answers:{"Form", "Function", "", ""}}
+1338:{question: "What's mroe important, beat or melody?", answers:{"Beat", "Melody"}}
+1339:{question: "What do you think of paper?", answers:{"Sexy", "Boring", "Depends", "Only if it's coated", "", ""}}
+1340:{question: "Cake or death?  Quick!", answers:{"Cake", "Death.  No, wait; ca -- aaaaaarrgh!", "What a stupid question.", "", ""}}
+1341:{question: "Are you a libertarian?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1342:{question: "Have you ever piloted an airplane?", answers:{"Yes", "No", "", ""}}
+1343:{question: "Entrepreneur, or employee?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1344:{question: "can you drive a car with a manual transmission?", answers:{"Yes", "No", "", ""}}
+1345:{question: "do you prefer manual or automatic transmissions in a vehicle?", answers:{"manual", "auto", "", ""}}
+1346:{question: "beastiality.", answers:{"Yuck!", "I'd watch...", "I'd try it...", "been there done that..", "", ""}}
+1347:{question: "What is your opinion of psychic powers and other kinds of paranormal phenomena?", answers:{"I'm psychic, so I knew you were going to ask that.", "I believe in them.", "Some of it is possibly true.", "I'm a skeptic.  It's all baloney.", "", ""}}
+1348:{question: "Is someone with a nice tan more attractive to you?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1349:{question: "unmatched socks...", answers:{"Drive you nuts", "Happen every so often", "Are the only kind you wear", "", ""}}
+1350:{question: "Do you feel a lot of these questions don't offer you an answer choice you agree with?", answers:{"Yes", "No", "I don't like these choices!", "", ""}}
+1351:{question: "Public Sex...does it interest you? (ex: Parking lot at Walmart during the Christmas rush)", answers:{"Yes", "No", "", ""}}
+1352:{question: "Your ex tells you: "you can't fit in there..." do you a: try to prove her/him wrong b: not try it...", answers:{"Prove him/her wrong", "Don't even attempt it.", "", ""}}
+1353:{question: "Choose a poet:", answers:{"Chaucer", "Shakespeare", "Eliot", "Grisham", "", ""}}
+1354:{question: "Choose a philosopher:", answers:{"Plato", "Aquinas", "Kant", "", ""}}
+1355:{question: "Choose a philosopher:", answers:{"Plato", "Aquinas", "Kant", "Wachowski"}}
+1356:{question: "Choose a chef:", answers:{"D. Boulud", "T. Keller", "J. Robuchon", "R. McDonald", "", ""}}
+1357:{question: "Choose a chef:", answers:{"D. Boulud", "T. Keller", "J. Robuchon", "R. McDonald", "", ""}}
+1358:{question: "Who do you believe is most responsible for your happiness?", answers:{"I am responsible for my own happiness", "My significant other(s) are responsible.", "I'm Not Sure", "What happiness?", "", ""}}
+1359:{question: "Would you tell your friend if you accidentally killed their favourite pet (and no one knew it was you)?", answers:{"Yes, right away", "When the time is right", "No", "", ""}}
+1360:{question: "Of Predestination and Freewill, which is true?", answers:{"Predestination", "Free will.", "Don't know! Paralyzing Existential Crisis!", "Both. Bad philosophy is often just word games.", "", ""}}
+1361:{question: "It is more worthwhile and satisfying to:", answers:{"Improve the world.", "Appreciate the world.", "", ""}}
+1362:{question: "Human triumph relies more on:", answers:{"Group harmony", "Individual Vision", "", ""}}
+1363:{question: "Are you awesome?", answers:{"Yes", "No", "What?", "", ""}}
+1364:{question: "How do you like your steak cooked?", answers:{"Rare / Medium Rare", "Medium / Medium well", "Well done", "Eww, meat", "", ""}}
+1365:{question: "Would you rather play a sport with a video game or outside?", answers:{"Video game", "Outside", "I hate sports!", "", ""}}
+1366:{question: "Would you rather play a sport with a video game or outside?", answers:{"Video game", "Outside", "I hate sports!", "", ""}}
+1367:{question: "What would you do if you discovered your partner or anyone close to you has a self injury problem?", answers:{"Abandon them, it's their problem.", "Be concerned, but mind my business.", "Present an ultimatum -- stop cutting or I'll go.", "Do whatever I can to help them through this.", "", ""}}
+1368:{question: "Do you find suspension, pulling, or hardcore body modification sexually exciting?", answers:{"Yes", "No", "I don't know"}}
+1369:{question: "Are gender norms antiquated and utterly useless in today's society? (Note, this applies to male norms as well as female.)", answers:{"Yes", "No", "In my day, you'd have been beat for this question!", "", ""}}
+1370:{question: "Drum & Bass or Trance?", answers:{"DnB", "Trance", "", ""}}
+1371:{question: "Imported beer, or domestic?", answers:{"Imported", "Domestic", "", ""}}
+1372:{question: "What kind of reading material do you have most of on your shelves?", answers:{"Fiction", "Non-fiction", "Comics/graphic novels", "Poetry/plays", "", ""}}
+1373:{question: "Your life partner asks you a question about their personality which if answered truthfully would hurt thier feelings and possibly cause a fight. Do you...", answers:{"Answer truthfully and duck", "Tactfully slip around the truth", "Get creative (lie!)", "", ""}}
+1374:{question: "What's your stance on nudity?", answers:{"There is too much nudity/I'm offended by it.", "It's only for your lover to see.", "Fine as long as no one is exploited.", "The more the better. In fact I'm naked RIGHT NOW.", "", ""}}
+1375:{question: "Are geeks sexy?", answers:{"Yes", "No", "", ""}}
+1376:{question: "How much time do you spend on the Internet each day, on average ?", answers:{"I log on less than a few times a week", "An hour a day", "Two hours a day", "Three hours or more a day", "", ""}}
+1377:{question: "Do you prefer driving automatic or manual transmission in cars ?", answers:{"Automatic", "Manual", "No preference", "I don't drive", "", ""}}
+1378:{question: "How often do you brush your teeth ?", answers:{"Once a week or less", "A few times a week", "Every day", "Multiple times each day", "", ""}}
+1379:{question: "Would you take your top off while dancing in a nightclub? (If you're a woman, assume you have a bikini top or bra on underneath)", answers:{"Yes", "No", "", ""}}
+1380:{question: "On which type of medium do you prefer to listen to music ?", answers:{"Vinyl record", "Cassette tape", "CD", "MP3 (or other digital computer format)", "", ""}}
+1381:{question: "Do you consider something candle-lit (dinner, bed, whatever) to be more romantic, or more tacky?", answers:{"More romantic", "More tacky", "Not sure", "", ""}}
+1382:{question: "If you could relatively easily afford it, would you genetically engineer your children so they would be smarter and healthier?", answers:{"Yes", "Maybe", "No!  We shouldn't play God!", "", ""}}
+1383:{question: "If you could relatively easily afford it, would you genetically engineer your children to have superficial features that you like? (ex: blue eyes, black hair, tan skin, etc...)", answers:{"Yes", "Maybe", "Probably not.  It's too risky.", "No!  We shouldn't play God!", "", ""}}
+1384:{question: "Would you rather live in an urban or rural setting?", answers:{"Urban", "Rural", "I have no preference", "", ""}}
+1385:{question: "Do you think that women should be allowed in the army?", answers:{"Yes", "No", "", ""}}
+1386:{question: "do you only enjoy 'vanilla' sex?", answers:{"Yes", "No", "", ""}}
+1387:{question: "Would you ever engage in a sexual activity you didn't enjoy, just because your partner did?", answers:{"Yes", "No", "", ""}}
+1388:{question: "Do you consider yourself a good kisser?", answers:{"Yes", "No", "", ""}}
+1389:{question: "do you wear leather, or use leather in a sexual context?", answers:{"Yes", "No", "", ""}}
+1390:{question: "do you know what an OTK spanking is?", answers:{"Yes", "No", "", ""}}
+1391:{question: "have you used hot wax during sex?", answers:{"Yes", "No", "", ""}}
+1392:{question: "Would you, or have you, used nipple clamps?", answers:{"Yes", "No", "", ""}}
+1393:{question: "Which way would you most like to relax?", answers:{"A cup of tea and a fag (that's a cigarette)", "A glass of wine and some classical music", "Headboard-banging, lamp-breaking sex", "Getting high/drunk and dancing till dawn", "", ""}}
+1394:{question: "What makes you dress up nice?", answers:{"A hot date", "The urge to knock strangers over in the street", "Letting the whole world know what I'm into", "I do it every day. Who wants to look like a hobo?", "", ""}}
+1395:{question: "Evil - Good or Bad?", answers:{"Good", "Bad", "", ""}}
+1396:{question: "You're on a hot date and it's going swimmingly. You go back to your date's room, and while the coffee's brewing you poke into the closet and are UTTERLY HORRIFIED at the sight of..", answers:{"A collection of well-loved stuffed animals", "A collection of leatherwear and kinky sex toys", "A collection of disassembled computer components", "A collection of animal rights pamphlets", "", ""}}
+1397:{question: "What is _your_ speed limit?", answers:{"5 MPH over", "10 MPH over", "15 MPH over", "Depends on where my car redlines", "", ""}}
+1398:{question: "Does it bother you if your partner speeds while you're riding in the car?", answers:{"Yes, because it's illegal", "Yes, because it's dangerous", "No"}}
+1399:{question: "Do you often find yourself wishing that many of the yes/no questions here came with a third option to answer by?", answers:{"Yes", "No", "Sometimes", "", ""}}
+1400:{question: "Which is more important? honor or saveing yourself and letting someone else catch the consiquines of your actions", answers:{"honor", "save myself", "", ""}}
+1401:{question: "Have you ever had a sexual encounter with someone of the same sex?", answers:{"Yes, and I enjoyed myself.", "Yes, and I did not enjoy myself.", "No, and I would never.", "No, but I would like to.", "", ""}}
+1402:{question: "Do you know what a flogger is?", answers:{"Yes", "No", "", ""}}
+1403:{question: "Preferred Alcohol?", answers:{"I don't drink.", "Beer", "Wine", "Liquor", "", ""}}
+1404:{question: "The game of cricket.", answers:{"Never seen it, and no desire to.", "Boring.", "Never seen it, but curious about it.", "Love it.", "", ""}}
+1405:{question: "Ferrets.", answers:{"Awww...cute!", "Ewww!", "I've never seen one."}}
+1406:{question: "Do you think that smarter people are usually capable of deeper love?", answers:{"Yes", "No", "", ""}}
+1407:{question: "Would you date someone who had children?", answers:{"Yes", "No", "", ""}}
+1408:{question: "Would you wear your partner's underclothing if they wanted you to?", answers:{"Yes", "No", "", ""}}
+1409:{question: "Do you know what a flogger is?", answers:{"Yes", "No", "is that tool i can pick up at the hardwrare store?", "", ""}}
+1410:{question: "Are you a Christian?", answers:{"Yes", "No", "I am a pagen", "God theres no God", "", ""}}
+1411:{question: "Dose a what a person belive in make a differece on wether you date them or not?", answers:{"Yes", "No", "", ""}}
+1412:{question: "Is the glass.....", answers:{"Half empty", "Half full", "In need of a refill", "", ""}}
+1413:{question: "Could you date a person with a very restrictive diet (example no sugar, no eggs, etc)?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1414:{question: "If you worked with a gay guy and he hit on you. How you you feel??", answers:{"take the offer", "kick his ass", "I'm Not Sure", "", ""}}
+1415:{question: "Do you know where the Male G-Spot is?", answers:{"Yes", "I think I do", "No", "There's no Male G-Spot, Silly!", "", ""}}
+1416:{question: "Cartoons are:", answers:{"For kids", "A legitimate genre", "", ""}}
+1417:{question: "Is a relationship possible with someone you sleep with on the first date?", answers:{"It's entirely possible", "It's possible, but would take more work than usual", "It's possible, but I wouldn't want one", "It's not possible at all"}}
+1418:{question: "Burgers/Hot Dogs/other food from stalls or vans.  Good, bad or what?", answers:{"Good", "Okay, I guess", "Horrid", "I live for crappy food", "", ""}}
+1419:{question: "You tell someone you cheated on them, and that person got upset. On another occasion that person get upset about it again. Would you be annoyed because the person should just get over it? You did end up telling the truth.", answers:{"Yes", "No", "I don't know. It's complicated.", "", ""}}
+1420:{question: "Are you going to run away as soon as it is commitment time?", answers:{"Yes", "No", "", ""}}
+1421:{question: "Are you capable of being responsible towards more than just your own hedonism?", answers:{"Yes", "No", "", ""}}
+1422:{question: "What kind of computer-related languages can you write?", answers:{"html", "c++", "java", "none/other", "", ""}}
+1423:{question: "When planning your future, which word best describes how you think about achieving your dreams?", answers:{"If", "When", "", ""}}
+1424:{question: "Have you ever been a candidate in an election?", answers:{"Yes, in a public election", "Yes, in a private election (college, union etc)", "No, but I might", "No, and I never would", "", ""}}
+1425:{question: "Do you naturally tend to choose a specific body type when choosing a partner?", answers:{"Yes, I like them lean and fit", "Yes, I like them with a bit of meat on thier bones", "No, they come in all different packages", "I've never thought about it", "", ""}}
+1426:{question: "If something you enjoy becomes popular, how do you react?", answers:{"Great!", "Ugh.  Now there will be lame posers.", "I am indifferent.", "", ""}}
+1427:{question: "Would you kill an innocent person if it would save your significant other's life?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1428:{question: "Do you think people should vote even if they don't have a clue about the candidate(s)or the issue?", answers:{"Yes", "No", "I vote like my friends", "I don't vote", "", ""}}
+1429:{question: "Do you really know the difference between Democrats and Republicans?", answers:{"Yes", "No", "I'm not sure", "", ""}}
+1430:{question: "Do you understand, at the molecular level, how soap works?", answers:{"Yes", "No", "Who cares?", "", ""}}
+1431:{question: "Do you turn the water off while you're brushing your teeth?", answers:{"Yes", "No", "When I think of it", "", ""}}
+1432:{question: "You're in a bar. On your left side sits a ninja. On your right, a squirrel. You know for a fact one of them is out to kill you.
+
+Which one is it?", answers:{"Ninja", "Squirrel", "Kill 'em all and let God sort 'em out.", "What the hell is this guys problem?", "", ""}}
+1433:{question: "is being sexually compatible important?", answers:{"Yes", "No", "", ""}}
+1434:{question: "does your partner alway bring you to orgasam?", answers:{"Yes", "No", "", ""}}
+1435:{question: "Do you consider yourself sexually open minded?", answers:{"Yes", "No", "", ""}}
+1436:{question: "Would you leave an otherwise perfect relationship if you found out your partner was interested in children sexually?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1437:{question: "do you enjoy having sex in places where you might be caught?", answers:{"Yes", "No", "", ""}}
+1438:{question: "would you do anything to sexually please your partner?", answers:{"Yes", "No", "I'm Not Sure"}}
+1439:{question: "Do you enjoy being naked?", answers:{"Yes", "No", "", ""}}
+1440:{question: "Is jealousy healthy in a relationship?", answers:{"Yes", "No", "", ""}}
+1441:{question: "How many games do you know how to play with a standard deck of cards?", answers:{"None", "One or two", "Less than ten", "Ten or more", "", ""}}
+1442:{question: "Is consciousness the product of physical processes in the brain and/or nervous system (i.e., neurons firing) or does it come from an external, non-physical soul?", answers:{"Physical processes", "A non-physical soul", "", ""}}
+1443:{question: "Are you geeky?", answers:{"1", "0", "Neither of the above are good answers!", "", ""}}
+1444:{question: "How do you like your chocolate?", answers:{"Dark", "Milk", "White", "I hate chocolate!", "", ""}}
+1445:{question: "Do you have a significant sexual dysfunction?
+(Desire, Arousal, Orgasmic or Sex Sain disorders)", answers:{"Yes", "No", "", ""}}
+1446:{question: "Do you care about other people's suffering?", answers:{"Yes, solidarity is important", "No, everyone has their own responsibility", "It depends on the kind of suffering", "", ""}}
+1447:{question: "Would you be willing to pay for good sex?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1448:{question: "Do you snore?", answers:{"Yes", "No", "I don't know / Maybe once in a while", "", ""}}
+1449:{question: "Does pornography always involve oppression of the subject?", answers:{"Yes", "No", "Depends on the work", "", ""}}
+1450:{question: "If your significant other had severe allergies and you were a pet lover, would you be willing to give up your animals for him or her?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1451:{question: "If you had to choose, which do you find more physically attractive in others?", answers:{"Overweight", "Underweight", "", ""}}
+1452:{question: "Is it ever ok for a man to hit a woman?", answers:{"Yes", "Only in self-defense.", "No", "", ""}}
+1453:{question: "If your significant other had severe allergies and you were a pet lover, would you be willing to give up your animals for him or her?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1454:{question: "Do you enjoy outdoor activities such as camping, hiking or fishing?", answers:{"Yes", "No", "", ""}}
+1455:{question: "Do you consider yourself an artist of any kind? (Music, painting, poetry, etc. all count.)", answers:{"Yes", "No", "", ""}}
+1456:{question: "How much of your life will you be willing to give up for your children?", answers:{"less than 25% /", "25-50%", "50-75%", "all of it", "", ""}}
+1457:{question: "Is five the right number to show your knowledge by naming things, be it composers, artists, sexual positions, monster trucks, and so on?", answers:{"Too Few", "Too Many", "Just Right", "Does it Matter?", "", ""}}
+1458:{question: "My ideal match would be:", answers:{"Taller than me", "Shorter than me", "I really don't care", "", ""}}
+1459:{question: "Your friend bought you a gift certificate for some free classes.  Which of the choices most appeals to you?", answers:{"Dance lessons", "Cooking lessons", "Painting lessons", "Returning it with the receipt for cash", "", ""}}
+1460:{question: "Do you like Bach?", answers:{"Yes", "No", "", ""}}
+1461:{question: "What is the solo instrument used in the second movement of Dvorak's "New World Symphony"?", answers:{"Oboe", "English Horn", "Electric Guitar", "I don't know"}}
+1462:{question: "Is it important for you to have a sexually virile partner who can provide services in succession?", answers:{"Yes", "No", "I am mildly forgiving.", "", ""}}
+1463:{question: "What is your opinion of Mystery Science Theater 3000?", answers:{"hilarious and witty", "juvenile and stupid", "I've never seen MST3K", "", ""}}
+1464:{question: "Would you consider using knives or other dangerous weapons during sex?", answers:{"Yes", "No", "I'm Not Sure", "", ""}}
+1465:{question: "Do you have extra respect for a man that has had sex with 100 women?", answers:{"Yes", "No", "", ""}}
+1466:{question: "Do you have extra respect for a woman that has had sex with 100 men?", answers:{"Yes", "No", "", ""}}
+1467:{question: "Do you downhill ski or snowboard?", answers:{"Yes", "No", "", ""}}
+1468:{question: "Have you ever sold drugs?", answers:{"Yes", "No", "Not yet....but I could", "", ""}}
+1469:{question: "What style in clothes would you wear most of the time, if you could?", answers:{"Loose and comfortable", "Tight and sexy", "Clean and formal", "", ""}}
+1470:{question: "Rap/Hip-Hop:", answers:{"Hip-Hop NATION!", "Retards Attempting Poetry?  No Thanks!", "I like that one guy....", "", ""}}
+1471:{question: "Do you believe reason is more important than emotions in solving problems?", answers:{"Yes", "No", "", ""}}
+1472:{question: "Which is your favourite genre of computer game?", answers:{"First person shooters.", "Real-time strategy/sims.", "Turn-based and/or roleplaying.", "I don't like computer games.", "", ""}}
+1473:{question: "Is an atheist a bad person?", answers:{"Yes", "No, not necessarily.", "I'm Not Sure", "", ""}}
+1474:{question: "Can my butt kick your butt's ass?", answers:{"Yes, my butt is a lover not a figher", "I have buns of fury!  HI-YA!", "I work hard for the money, so hard for the money", "Give me the Distructo Beam!", "", ""}}
+1475:{question: "null", answers:{"I take it and put my money in it", "I cry for the baby cow", "I'm Not Sure", "what's a wallet?", "", ""}}
+1476:{question: "", answers:{"I'd look at it and tell him how beautiful it is.", "How horrible! I faint.", "", ""}}
+1477:{question: "null", answers:{"Knock it off!", "Freeze", "KILL", "It's my new pet!"}}
+1478:{question: "null", answers:{"What's a tortoise?", "What kind of question is this?"}}
+1479:{question: "Describe in single words, only the good things that come into your mind. About your mother.
+", answers:{"Mama", "I'm about to kill you", "I'm Not Sure"}}
+1480:{question: "Upon receiving a compliment on your looks or your appearance, do you tend to feel:", answers:{"Superior", "Flattered"}}
+1481:{question: "When looking for a mate, do you feel that it's the other person's job to prove himself or herself to you?", answers:{"Yes", "No"}}
+1482:{question: "Would you rather be comfortable in your current dating situation or take a wild chance on something new?", answers:{"Comfy", "Wild, please!", "I don't date", "I'm a hermit"}}
+1483:{question: "T or A?", answers:{"T", "A", "Both", "I don't like girls."}}
+1484:{question: "You feel that you are superior in some way to those who seek your affection.", answers:{"Yes", "No"}}
+1485:{question: "In correspondence or in conversation, do you often delay in responding to someone, or even avoid responding altogether, because you can't think of precisely the right words to use or the right things to say?", answers:{"Yes", "No, most communication is effortless for me", "No (Other reason)"}}
+1486:{question: "Do you think it's important to be aware of and understand history?", answers:{"Yes, because it's doomed to repeat itself.", "Yes, because it shapes the present.", "No, the past is past.", "I'm not sure/I don't care"}}
+1487:{question: "Do you have allergies?", answers:{"Yes, terribly!", "Yes, a little.", "I don't know.", "No."}}
+1488:{question: "You're stranded on a desert island, alone, with no hope of rescue.  Do you persevere and do your best to live or give up?", answers:{"Persevere, duh!", "Give up, but only after trying for a while.", "Give up, immediately.", "What kind of stupid question is this?"}}
+1489:{question: "Are you a good cook?", answers:{"I'm a professional, trust me.", "I can follow a recipe.", "I know how to use the microwave.", "I can't boil water."}}
+1490:{question: "Are you stubborn?", answers:{"Yes, very.", "Yes, a bit.", "No."}}
+1491:{question: "You've had a terrible fight with someone close to you.  Would you...", answers:{"Talk it over immediately.", "Avoid the issue and cool down, then talk it over.", "Simmer quietly but keep it to yourself.", "Pretend nothing happened./Ignore the problem."}}
+1492:{question: "When you are lonely, what types of music would you rather listen to?", answers:{"Classical", "Oldies", "Top 40", "Hot Metal"}}
+1493:{question: "Is bigger really better? (Yes, this applies to both men and women.)", answers:{"Yes", "To a point, but things can be too big", "Any size can be the right size", "No"}}
+1494:{question: "Of predestination and freewill, which is true?", answers:{"Predestination", "I don't know! Paralyzing Existential Crisis!", "Freewill", "Both. Philosophy good, wordgames, bad."}}
+1495:{question: "Which comes first, family or friends?", answers:{"Family", "Friends"}}
+1496:{question: "Have you ever sold anything online (Ebay or otherwise)?", answers:{"Yes", "No"}}
+1497:{question: "Which would you rather choose: peace on Earth or loads of money?", answers:{"Peace on Earth", "Loads of money"}}
+1498:{question: "Do you find yourself skipping questions to avoid giving too much weight to specific topics?", answers:{"Frequently", "Occasionally", "Rarely", "Never"}}
+1499:{question: "Do you use LiveJournal? (Pick the first answer that applies.)", answers:{"Yes, permanent account or early adopter.", "Yes, paid account.", "Yes, free account.", "I don't use it. / Never heard of it."}}
+1500:{question: "Is a Rumble Pak for video game use only?", answers:{"Yes", "No", "What's a Rumble Pak?"}}
+1501:{question: "If you fell deeply in love with someone and agreed to marry them, but then realized afterward that this person was a serial killer, would you leave them?", answers:{"Yes", "No", "I'm Not Sure"}}
+1502:{question: "Do you think it's sexist that men must register for the US Draft when they turn 18 but not women?", answers:{"Yes", "No"}}
+1503:{question: "At the heart of every pessimist is an experienced optimist.", answers:{"Yes", "No"}}
+1504:{question: "Metrosexuals, what do you think of them?", answers:{"Yep, love 'em!", "No, what happened to manly men?", "Metrosexual? What's that?", "Eh. It's ok. Just don't overdo it."}}
+1505:{question: "Do you think people are inherently evil or good?", answers:{"good", "evil", "undecided"}}
+1506:{question: "Does an individuals practice of playing video games show a lower level of maturity?", answers:{"Yes", "No"}}
+1507:{question: "What political party do you tend to subscribe to?", answers:{"Republican", "Democrat", "Libertarian", "Green"}}
+1508:{question: "Person you would most like to kill.", answers:{"Barbara Streisand", "Drew Barrymore", "Kevin Costner", "Kenny G"}}
+1509:{question: "If the greatest tasting thing in the world looked and smelled like fecal matter, would you eat it?", answers:{"Yes", "No"}}
+1510:{question: "Are you a night owl, or a morning lark?", answers:{"Night Owl", "Morning Lark", "As long as I get some sleep, it doesn't matter"}}
+1511:{question: "At a restaurant you visit for the first time, are you more likely to order something that sounds familiar, or something completely new?", answers:{"Familiar", "New", "Doesn't matter, as long as it tastes good", "Whatever I think is most healthy"}}
+1512:{question: "Does history repeat itself, or does every era have a unique story to tell?", answers:{"It repeats, and repeats...", "Sit down, and I'll tell you our story...", "I think events are so chaotic there's no pattern"}}
+1513:{question: "You've come to a decision.  But new information comes in.  Are you open to changing your mind, or is it more important to be resolute?", answers:{"Better info is best -- change course", "People should stick to their convictions"}}
+1514:{question: "If you write a journal about a trip, do you find you mostly describe people, or places?", answers:{"People", "Places", "I've never left home"}}
+1515:{question: "You go to a lecture.  Which would help you best remember the event: A video, an audiotape, or writing down notes?", answers:{"Video", "Audio", "Writing"}}
+1516:{question: "You watch a pond.  It has a river coming in, and leaving.  You see a row of white swan swim by.  How many white swans do you need to see to *prove* black swans don't exist?", answers:{"10", "10,000", "No number of white prove black swans don't exist"}}
+1517:{question: "If you could have unlimited money and success for the rest of your life, under the condition that you would have no genitalia and could never have sex again, would you take it?", answers:{"Yes", "No"}}
+1518:{question: "Would you consider asking someone you met through some means OTHER than this site to join it in order to gauge your compatibility?", answers:{"Yes", "No"}}
+1519:{question: "People who say they never masturbate are lying.", answers:{"Yes", "No", "I'm Not Sure"}}
