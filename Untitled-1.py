@@ -111,7 +111,7 @@ def get_question(num, f=f, _await_val="question"):
 
 try:
     for num in range(1, 464459, 1):
-        if num%20=0:
+        if num%20==0:
             f.close()
             f = open("okc_questions.txt", "a") #just putting this in to make extra sure it doesn't lose hours of work by 
             #crashing without writing to file!
