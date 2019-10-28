@@ -109,11 +109,16 @@ def get_question(num, f=f, _await_val="question"):
     ans_str = '"'+'", "'.join(answers)+'"'
     f.write(str(num)+':{question: "'+question+'", answers:{'+ans_str+'}}\n')
 
-for num in range(3031, 464459, 1):
-    try:
-        get_question(num)
-    except ConnectionRefusedError:
-        session_cycle()
-        get_question(num)
-    except TimeoutException:
-        get_question(num, _await_val="answers")
+try:
+    for num in range(3031, 464459, 1):
+        try:
+            get_question(num)
+        except ConnectionRefusedError:
+            session_cycle()
+            get_question(num)
+        except TimeoutException:
+            get_question(num, _await_val="answers")
+except Exception:
+    f.close() #I *think* that this should work although it's rather ugly - if an exception is not caught by the inner two
+    #try/excepts, it will break that loop and be passed to this enclosing try/except, and be caught for clean-up.
+    raise
